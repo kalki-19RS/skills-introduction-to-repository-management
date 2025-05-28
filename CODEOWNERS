@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @kalki-19RS
+/src/backend/database.py      @kalki-19RS
+/src/backend/routers/auth.py  @kalki-19RS
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @kalki-19RS
